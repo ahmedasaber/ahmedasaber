@@ -22,8 +22,7 @@ I’m passionate about building **mobile applications** with clean architecture 
 
 ---
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedasaber&show_icons=true&theme=default)  
+## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedasaber&layout=compact&theme=default)  
 
 ---
