@@ -11,7 +11,6 @@ I’m passionate about building **mobile applications** with clean architecture 
 - 📚 Constantly learning and exploring new mobile technologies  
 
 ## 🛠️ Tech Skills  
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -31,11 +30,21 @@ I’m passionate about building **mobile applications** with clean architecture 
 - **Architecture & State Management:** MVVM · Clean Architecture · BLoC · Provider  
 - **Other Tools:** Git & GitHub · Agile methodology · Trello 
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ahmedashrafsaber/)  
-- 📧 **Email:** ahmeda.saber22@gmail.com
+## 🌐 Connect With Me 
+<div>
+  <a href="https://www.linkedin.com/in/ahmedashrafsaber/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="LinkedIn logo" />
+  </a>
+  &nbsp;
+  <a href="mailto:ahmeda.saber22@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail logo"/>
+  </a>
+</div>
 
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedasaber&layout=compact&theme=default)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedasaber&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedasaber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
