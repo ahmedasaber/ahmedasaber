@@ -10,7 +10,9 @@ I’m passionate about building **mobile applications** with clean architecture 
 - 🚀 Focused on writing clean, scalable, and maintainable code  
 - 📚 Constantly learning and exploring new mobile technologies  
 
-## 🛠️ Tech Skills  
+## 🛠️ Tech Skills 
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -27,6 +29,7 @@ I’m passionate about building **mobile applications** with clean architecture 
 ![Agile](https://img.shields.io/badge/-Agile-4CAF50?style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ## 🌐 Connect With Me 
 <div>
