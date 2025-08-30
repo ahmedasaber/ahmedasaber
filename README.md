@@ -23,6 +23,10 @@ I’m passionate about building **mobile applications** with clean architecture 
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-02569B?style=flat)
 ![MVVM](https://img.shields.io/badge/-MVVM-FF6F00?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-4CAF50?style=flat)
+![Agile](https://img.shields.io/badge/-Agile-4CAF50?style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🛠️ Skills
 - **Languages:** Dart · Java · SQL  
