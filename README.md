@@ -22,15 +22,11 @@ I’m passionate about building **mobile applications** with clean architecture 
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedasaber&layout=compact&theme=default)  
-
----
-
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ahmedashrafsaber/)  
-- 📧 **Email:** ahmeda.saber22@gmail.com 
+- 📧 **Email:** ahmeda.saber22@gmail.com
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedasaber&layout=compact&theme=default)  
